@@ -9,7 +9,10 @@
   데이터 분석의 목적이 있다면 Data Warehouse, Lake 등이 필요할 것
 - Data Lake/Warehouse에 저장된 데이터를 모니터링에도 사용하고 분석에도 사용하도록
 - Prometheus는 원래 로그 수집을 지원하지 않았기 때문에 부족한 점이 많음
-  ELK는 로그에, Prometheus는 메트릭에 더 적합 -> ELK OSS 버전을 사용한다?
+  ELK는 로그에, Prometheus는 메트릭에 더 적합 
+    -> ELK OSS 버전을 사용한다? (Opensearch?)
+    -> 회사 내부적으로 사용하는 경우 기본 배포판 계속 무료로 사용 가능, 고객에게 서비스 제공 안함
+    
 	- 시각화 시에 metric 데이터에 더 적합한 경우가 많음
 	  ex) time series 패널의 x축 시간 간격 조정 불가능
 	- kubernetes, cloud 환경에 적합한 형태
