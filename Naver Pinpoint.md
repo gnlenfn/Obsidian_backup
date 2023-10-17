@@ -12,3 +12,6 @@
 3. CallStack
 4. Application inspector -> Metric 데이터 집계
 5. 알람 -> SMS/Email 가능
+6. Real User Analystic
+   - 웹사이트 접속하는 유저 분석 -> 못쓸듯
+7. 
