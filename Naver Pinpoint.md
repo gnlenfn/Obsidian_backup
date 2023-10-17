@@ -13,6 +13,7 @@
    - 노드의 트랜잭션 성공/실패 수 및 응답 시간
 2. 실시간 활성화 스레드 차트
    ![](https://i.imgur.com/W2S7t8m.png)
+   ![](https://i.imgur.com/W2goOh7.png)
 
 3. CallStack
    ![](https://i.imgur.com/Dduk3l9.png)
