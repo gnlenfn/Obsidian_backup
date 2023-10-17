@@ -3,7 +3,8 @@
 	- 개발한 코드를 모두 공유해야하는건가?
 - 오픈소스 -> 직접 구축 및 운영 / 그 외에는 네이버 클라우드 사용
 - Agent 방식
-
+- 지원하는 application https://pinpoint-apm.github.io/pinpoint/main.html#supported-modules
+- 
 ## 기능
 1. 서버맵
    - 노드 간 트랜잭션 수  확인
