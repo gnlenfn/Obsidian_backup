@@ -4,6 +4,6 @@
 
 - Nginx oss?
 - python log format 변경?
-	- 
+	- 로그 파일 권한?
 - network  수집설정?
 - APM 활성화 시 python client부터 다 설치?
