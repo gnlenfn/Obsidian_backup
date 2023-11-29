@@ -2,8 +2,7 @@
   ![](https://i.imgur.com/2RUM5F3.png)
 
 
-- Nginx oss?
 - python log format 변경?
 	- 로그 파일 권한?
 - network  수집설정?
-- APM 활성화 시 python client부터 다 설치?
+- APM 활성화 
