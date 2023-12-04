@@ -33,3 +33,5 @@
 	- conf.yaml dd-agent 644
 	- 
 - 메일 이외의 모니터 어떻게?
+- NPM 어디에?
+- synthetic test에서 주기적으로 테스트 가능한건지?
