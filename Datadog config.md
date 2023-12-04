@@ -15,12 +15,6 @@
 
 
 - 모든 서비스 `ddtrace-run` 해야지 종합적으로 볼 수 있는건가?
-- 로그 수집이 왜 안돼요
-	- 로그파일에 권한 644
-	- conf.yaml dd-agent 644
-	- `sudo datadog-agent status`
-	- Status: Error: could not find any file matching pattern /home/dpm/logs/\*.log, check that all its subdirectories are executable
-		- permission denied
 - 메일 이외의 모니터 어떻게?
 - NPM 어디에?
 - synthetic test에서 주기적으로 테스트 가능한건지?
