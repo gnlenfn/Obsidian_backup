@@ -16,6 +16,9 @@
 
 - 모든 서비스 `ddtrace-run` 해야지 종합적으로 볼 수 있는건가?
 - 메일 이외의 모니터 어떻게?
+	- monitor 설정법?
+	- threshold 등 뭐여
 - NPM 어디에?
 - synthetic test에서 주기적으로 테스트 가능한건지?
+	- 
 - watchdog은 뭐야?
