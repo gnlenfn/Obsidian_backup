@@ -24,6 +24,6 @@
 	- 정해진 포맷으로 로그 남기면 자동으로 되는건지?
 	- 로그 content의 내용으로 검색이 되는건지? query?
 - synthetic test에서 주기적으로 테스트 가능한건지?
-	- 
+	- host 단순 방화벽 오픈으로 안되고 domain 혹은 공인IP 써야하는건지?
 - watchdog은 뭐야?
 - proxy 설정 -> agent 설정파일만 만져도 되는걸로 보이는데?
