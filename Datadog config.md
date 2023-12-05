@@ -22,6 +22,7 @@
 	- Agent 여러개 해야 의미있는거지?
 - 로그 pipeline에서 파싱 가능한건지(logstash, promtail...) -> extract content
 	- 정해진 포맷으로 로그 남기면 자동으로 되는건지?
+	- 로그 content의 내용으로 검색이 되는건지? query?
 - synthetic test에서 주기적으로 테스트 가능한건지?
 	- 
 - watchdog은 뭐야?
