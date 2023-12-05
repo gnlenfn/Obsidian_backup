@@ -25,3 +25,4 @@
 - synthetic test에서 주기적으로 테스트 가능한건지?
 	- 
 - watchdog은 뭐야?
+- proxy 설정 -> agent 설정파일만 만져도 되는걸로 보이는데?
