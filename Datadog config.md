@@ -31,4 +31,5 @@
 - ***query 어디서 찾아볼 수 있어?***
 
 
-proxy du
+### proxy 연결 확인
+`curl -x 10.11.52.140:3128 -L -I https://datadoghq.com`
