@@ -7,4 +7,11 @@
 
 ## 컨테이너 런타임
 가장 익숙하고 많이 쓰는 런타임은 도커가 있지만 `컨테이너 == 도커`라고 생각하면 안된다.
-도커가 발전하면서 containerd 런타임을 내부적으로 사용하게 되었으며 쿠버네티스에서는 CRI-O를 전용 런타임으로 사용한다.
+도커가 발전하면서 [containerd 런타임을 내부적으로 사용](https://gngsn.tistory.com/128)하게 되었으며 쿠버네티스에서는 CRI-O를 전용 런타임으로 사용한다.
+
+
+## Docker로 컨테이너 생성하기
+### Dockerfile
+- 도커를 통해 컨테이너 생성을 위한 이미지를 만드는 스크립트
+- Dockerfile을 작성한 뒤 `docker build` 명령어를 통해 이미지를 만들 수 있다
+	- [Dockerfile 작성법](https://docs.docker.com/engine/reference/builder/)
